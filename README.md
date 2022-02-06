@@ -1,5 +1,8 @@
-# Android Kernel Actions
+# Android Kernel Actions (Python 2)
 [![Shell check](https://github.com/lemniskett/android-kernel-actions/actions/workflows/check.yml/badge.svg)](https://github.com/lemniskett/android-kernel-actions/actions/workflows/check.yml)
+
+Forked from [android-kernel-actions](https://github.com/lemniskett/android-kernel-actions), but modified for kernels that need
+to be built using python 2.
 
 Builds Android kernel from the kernel repository.
 > Note: You don't have to fork this repository, see the [examples](#example-usage).
